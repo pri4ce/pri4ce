@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm PRI4CE</h1>
+<h3 align="center">N00b CTF Player | Cybersecurity Enthusiasat</h3>
+
+- 🌱 I’m currently learning **Python, Linux, $cripting**
+
+- 👨‍💻 All of my projects are available at https://github.com/pri4ce
+
+- 📫 How to reach me **pri4ce@duck.com**
+
+> [!WARNING]  
+> There is something wrong in this readme
 
 <!--
-**pri4ce/pri4ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+SCM{k4mU_Pa5T1_J4g0_0s1nT-12i7387885398}
 -->
